@@ -16,4 +16,4 @@ You may also see any lint errors in the console.
 
 https://price-comparison-three.vercel.app/
 
-** Note: ** API might be outdated so the app cannot run correctly
+**Note:** API might be outdated so the app cannot run correctly
